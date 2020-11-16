@@ -1,6 +1,6 @@
 # Precificação de Opções de Ações usando Redes LSTM
 
-## Download
+## [Download](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/00_notebook_download.ipynb)
 Download e formatação inicial
 
 ## Pré-processamento
