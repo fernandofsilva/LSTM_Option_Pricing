@@ -1,6 +1,6 @@
 # Precificação de Opções de Ações usando Redes LSTM
 
-Esse repositório conteem os dados, analises e conclusões para obtenção do título de mestre no Programa de Pós Graduação em Engenharia Elétrica e da Computação (PPGEEC) da Universidade Presbiteriana Mackenzie.
+Esse repositório contém os dados, analises e conclusões para obtenção do título de mestre no Programa de Pós Graduação em Engenharia Elétrica e da Computação (PPGEEC) da Universidade Presbiteriana Mackenzie.
 
 ## [Pré-processamento](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/00_pre_processamento.ipynb)
 Download dos dados e pré-processamento
