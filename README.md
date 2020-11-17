@@ -1,19 +1,19 @@
 # Precificação de Opções de Ações usando Redes LSTM
 
-## [Download](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/00_notebook_download.ipynb)
-Download e formatação inicial
+## [Pré-processamento](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/00_pre_processamento.ipynb)
+Download dos dados e pré-processamento
 
-## Pré-processamento
-Pré processamento dos dados
+## [GARCH](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/01_garch_volatilidade.ipynb)
+Modelo de volatilidade
 
 ## Black-Scholes
 Cálculo do valor das opções usando o modelo matemático de Black-Scholes
 
-## Rede Neural Profunda
-Modelagem das redes neurais profundas
+## Rede Neural Profunda (DNN)
+Cálculo do valor das opções usando modelo de redes neurais profundas
 
 ## Rede Recorrente LSTM
-Modelagem das redes recorrentes LSTM
+Cálculo do valor das opções usando modelo de redes recorrentes LSTM
 
 ## Métricas
-Gráficos com todos as métricas comparando os 3 modelos
+Gráficos com todos as métricas comparando os 3 modelos (Black-Scholes, DNN e LSTM)
