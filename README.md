@@ -8,7 +8,7 @@ Download dos dados e pré-processamento
 ## [GARCH](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/01_garch_volatilidade.ipynb)
 Modelo de volatilidade de GARCH(1,1)
 
-## Black-Scholes
+## [Black-Scholes](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/02_black_scholes.ipynb)
 Cálculo do valor das opções usando o modelo matemático de Black-Scholes
 
 ## Rede Neural Profunda (DNN)
