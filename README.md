@@ -14,7 +14,7 @@ Cálculo do valor das opções usando o modelo matemático de Black-Scholes
 ## [Rede Neural Profunda (DNN)](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/03_modelo_dnn_sequential.ipynb)
 Cálculo do valor das opções usando modelo de redes neurais profundas
 
-## Rede Recorrente LSTM
+## [Rede Recorrente (LSTM)](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/04_modelo_lstm_sequential.ipynb)
 Cálculo do valor das opções usando modelo de redes recorrentes LSTM
 
 ## Métricas
