@@ -11,11 +11,11 @@ Modelo de volatilidade de GARCH(1,1)
 ## [Black-Scholes](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/02_black_scholes.ipynb)
 Cálculo do valor das opções usando o modelo matemático de Black-Scholes
 
-## [Rede Neural Profunda (DNN)](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/03_modelo_dnn_sequential.ipynb)
+## [Rede Neural Profunda (DNN)](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/03_modelo_dnn_functional.ipynb)
 Cálculo do valor das opções usando modelo de redes neurais profundas
 
-## [Rede Recorrente (LSTM)](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/04_modelo_lstm_sequential.ipynb)
+## [Rede Recorrente (LSTM)](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/04_modelo_lstm_functional.ipynb)
 Cálculo do valor das opções usando modelo de redes recorrentes LSTM
 
-## Métricas
+## [Métricas](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/05_analise_resultados.ipynb)
 Gráficos com todos as métricas comparando os 3 modelos (Black-Scholes, DNN e LSTM)
