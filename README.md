@@ -18,4 +18,4 @@ Cálculo do valor das opções usando modelo de redes neurais profundas
 Cálculo do valor das opções usando modelo de redes recorrentes LSTM
 
 ## [Métricas](https://github.com/fernandofsilva/LSTM_Option_Pricing/blob/main/notebooks/05_analise_resultados.ipynb)
-Gráficos com todos as métricas comparando os 3 modelos (Black-Scholes, DNN e LSTM)
+Gráficos com todas as métricas comparando os 3 modelos (Black-Scholes, DNN e LSTM)
